@@ -1,0 +1,9 @@
+('C:\\Users\\Almada\\Desktop\\PAT Label Creator\\dist\\PAT Label Creator v5.exe',
+ False,
+ False,
+ 'green tick.ico',
+ None,
+ [],
+ None,
+ False,
+ 1435762531L)
