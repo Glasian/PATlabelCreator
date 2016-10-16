@@ -1,6 +1,6 @@
 # PATlabelCreator
 Python app for creating portable appliance test labels used by electrical engineers.
 
-Python scipt and GUI Tkinter
+Work place assigment created in free time. Developed using python and GUI Tkinter. Built into executable package for deployment.
 
-Developed before GitHub account created. Now on GitHub for future development changes.
+Developed using skills taught in Level 1 Software Engineering Degree and before GitHub account created. Now on GitHub for future development changes.
